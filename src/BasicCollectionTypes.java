@@ -22,13 +22,6 @@ public class BasicCollectionTypes {
 
         System.out.println("Set: " + fruitset);
 
-        for (String value : (Iterable<String>) fruitset) {
-            if (value.equals("banana")) {
-                fruitset.add("yummy fruit");
-            }
-        }
-        System.out.println("New Set after for loop: " + fruitset);
-
         System.out.println("\n----- LIST -----");
         // create a liar
         List farmlist = new ArrayList();
