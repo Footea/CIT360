@@ -1,0 +1,24 @@
+
+
+
+[
+  {
+    "BikeType:": "Road",
+    "Maker": "Canyon",
+    "Model": "Endurance ",
+    "Size": "56"
+  },
+  {
+    "BikeType:": "Gravel",
+    "Maker": "Canyon",
+    "Model": "Grail AL 7.0",
+    "Size": "56"
+  },
+  {
+    "BikeType:": "Mountain",
+    "Maker": "Canyon",
+    "Model": "Spectral",
+    "Size": "L"
+  }
+
+]
