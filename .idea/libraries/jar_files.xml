@@ -3,9 +3,20 @@
     <CLASSES>
       <root url="file://$USER_HOME$/Desktop/jar_files" />
       <root url="file://$USER_HOME$/Desktop/org.jason" />
+      <root url="jar://$USER_HOME$/Desktop/jar_files/jetty-runner/lib/cglib-nodep-2.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar_files/jetty-runner/lib/javassist-3.21.0-GA.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar_files/jetty-runner/lib/jetty-runner-9.4.14.v20181114.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar_files/jetty-runner/lib/jetty-runner.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar_files/jetty-runner/lib/junit-4.11.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar_files/jetty-runner/lib/mockito-all-1.9.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar_files/jetty-runner/lib/objenesis-2.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar_files/jetty-runner/lib/powermock-mockito-release-full-1.5.6-full.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/jar_files/jetty-runner/lib/mockito-all-1.9.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar_files/jetty-runner/lib/powermock-mockito-release-full-1.5.6-full.jar!/" />
+    </SOURCES>
     <jarDirectory url="file://$USER_HOME$/Desktop/jar_files" recursive="false" />
     <jarDirectory url="file://$USER_HOME$/Desktop/org.jason" recursive="false" />
   </library>
