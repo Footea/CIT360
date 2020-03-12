@@ -2,7 +2,7 @@ package basicthreads;
 
 /**
  * Aaron Foote
- * runs thread pool checking system time, checks mail and calendar in eventpool
+ * runs thread pool checking system time, checks mail and calendar in event pool
  */
 
 import java.util.concurrent.ScheduledThreadPoolExecutor;
